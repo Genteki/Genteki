@@ -3,4 +3,4 @@
 
 Currently I am studying robotics. I also like creating useless tools about game and Vtuber.
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=redheadphone)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Genteki)
